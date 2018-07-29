@@ -46,7 +46,7 @@ that clarity isn't reachable by the outside world. At the very least use --usern
 
 == SCREENSHOT: 
 
-http://img.skitch.com/20091104-je9kq1a2gfr586ia8y246bq4n8.png
+https://user-images.githubusercontent.com/610161/43352711-71322484-925a-11e8-9e7c-f1239d26a1d3.png
 
 == REQUIREMENTS:
 
